@@ -1,5 +1,7 @@
 # tp05_lauciello_gilles
 
 Pour lancer le serveur backend :
--aller dans le dossier "ShopBackend"
--lancer la commande "php -S localhost:8080"
+<ol>
+<li>Aller dans le dossier "ShopBackend"</li>
+<li>Lancer la commande "php -S localhost:8080"</li>
+</ol>
